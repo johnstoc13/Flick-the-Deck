@@ -9,6 +9,15 @@ Flick-the-Deck is a light-hearted application that combines the "luck of the dra
 Link to the application:
 https://mwoodervin.github.io/Flick-the-Deck/
 
+Tech Used: HTML, CSS, Foundation, Javascript, jQuery, Animate.css, API's
+
+Collaborators: 
+
+Andres Ramirez - andresaaramirez@aol.com
+Chase Johnston - chasej@live.com
+Mary Ervin - mwoodervin@gmail.com
+Tim Bourgoin - bourgoinaudio@outlook.com
+
 ____________________________________________
 ## User Story
 ```
