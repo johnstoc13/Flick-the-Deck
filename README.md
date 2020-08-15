@@ -9,18 +9,6 @@ Flick-the-Deck is a light-hearted application that combines the "luck of the dra
 Link to the application:
 https://mwoodervin.github.io/Flick-the-Deck/
 
-Tech Used: HTML, CSS, Foundation, Javascript, jQuery, Animate.css, API's
-
-Collaborators: 
-
-Andres Ramirez - andresaaramirez@aol.com
-
-Chase Johnston - chasej@live.com
-
-Mary Ervin - mwoodervin@gmail.com
-
-Tim Bourgoin - bourgoinaudio@outlook.com
-
 ____________________________________________
 ## User Story
 ```
@@ -55,3 +43,6 @@ Future expansion of this application will include features such as
 - the ability to link from a movie poster on the site to a movie preview and options for watching
 - the ability to flip one card at a time when revealing movie choices
 - linking to a paid movie API - our current source has several receognized glitches including inaccurate   ratings and runtimes for movies. 
+
+## Licence
+[![license information](https://img.shields.io/badge/license-MIT-blue)](https://github.com/mwoodervin/Flick-the-Deck/blob/master/LICENSE)
